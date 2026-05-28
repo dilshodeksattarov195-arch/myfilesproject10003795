@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfave",
+        "uuid": 33206250,
+        "checksum": "ha4vc7"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
